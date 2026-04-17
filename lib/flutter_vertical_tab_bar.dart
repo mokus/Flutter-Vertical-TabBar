@@ -108,7 +108,7 @@ class _VerticalTabsState extends State<VerticalTabs>
               child: Row(
                 children: <Widget>[
                   Material(
-                    color: Colors.white,
+                    // color: Colors.white,
                     elevation: 0,
                     shadowColor: widget.tabsShadowColor,
                     shape: const BeveledRectangleBorder(),
